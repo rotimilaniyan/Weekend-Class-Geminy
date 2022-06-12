@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 115, 0);
+}
+
+
+
+.first_flex{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: space-between;
+}
+
+
+.basic{
+    background-color: brown;
+    height: 100px;
+    bottom: 70%;
+    position: relative;
+}
+
+.basic_2{
+    background-color: antiquewhite;
+    height: 30px;
+    width: 50px;
+    bottom: 10px;
+    position: absolute;
+}

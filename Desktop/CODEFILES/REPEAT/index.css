@@ -1,0 +1,45 @@
+
+ 
+    p {
+      color: blue;
+    }
+  </style>
+
+  <style>
+    h1 {
+      color: brown;
+      border: 2px solid;
+    }
+  </style>
+
+  <style>
+    img {
+      width: 1920px;
+      height: 1080
+      px;
+      
+    }
+ h1{ color: brown;}
+ td{background-color: rgb(196, 255, 193);
+    color: rgb(0, 28, 19);
+    border: 2px solid;
+}
+
+    td{font-family: Arial, Helvetica, sans-serif;}
+
+    table{border: 2px solid;}
+
+    form{background-color: rgb(201, 231, 231);}
+
+    div{background-color: rgb(255, 208, 208);
+    width: 20%;
+margin-left: 800px;}
+
+.landing {
+    color: blue;
+    text-decoration: none;
+}
+
+#firstid {font-weight: 900;}
+
+.firstid { background-color: aqua;}

@@ -1,0 +1,40 @@
+/* body{background-color: aqua;} */
+
+.firstdiv{
+     width: 20%;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80%;
+
+}
+
+.myaccount{
+    background-color: rgb(2, 145, 97);
+    color: aliceblue;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+    padding-top: 5px;
+}
+
+section{
+    margin-top: 45px;
+    background-color: aqua;
+    text-align: center;
+}
+
+
+input{
+    border-radius: 27px;
+    width: 40%;
+    height: 40px;
+    box-shadow: 2px 4px 10px grey;
+    border: none;
+  
+
+}
+
+
+

@@ -1,0 +1,18 @@
+img
+{width: 100%;}
+p{
+    font-size: 17pt;
+    background-color: bisque;
+    
+}
+h1{
+    background-color: beige
+    ;
+    width: 50%;
+    font-size: 35pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.col-auto{
+    width: 40%;
+}
